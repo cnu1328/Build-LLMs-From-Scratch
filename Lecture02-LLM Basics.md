@@ -18,6 +18,43 @@
 
 <img width="821" alt="{952886BF-C844-4A35-A367-22231DDA81AB}" src="https://github.com/user-attachments/assets/775c83a5-df5d-4edd-be8e-928318341e35">
 
+---
+
+### 1. **Artificial Intelligence (AI)**  
+**Definition:** AI is a branch of computer science focused on creating systems that can perform tasks requiring human-like intelligence, such as problem-solving, decision-making, and pattern recognition.
+
+**Example:** A self-driving car using AI can identify pedestrians, obey traffic signals, and make decisions like when to stop or change lanes.  
+
+---
+
+### 2. **Machine Learning (ML)**  
+**Definition:** ML is a subset of AI that involves training algorithms to learn patterns and make predictions or decisions without being explicitly programmed. ML improves its performance by learning from data.
+
+**Example:** For the self-driving car, ML helps it recognize stop signs. The algorithm is trained on thousands of images of stop signs in various conditions (e.g., lighting, angles) to identify them accurately during driving.  
+
+---
+
+### 3. **Deep Learning (DL)**  
+**Definition:** DL is a specialized subset of ML that uses neural networks with many layers (hence "deep") to model complex patterns in data. It excels at processing large datasets, such as images, audio, and text.
+
+**Example:** In the self-driving car, DL is used for image recognition. The deep learning model processes the car’s camera feed to identify pedestrians, vehicles, and road signs.  
+
+---
+
+### 4. **Generative AI (GenAI)**  
+**Definition:** GenAI is a branch of AI focused on creating new content, such as text, images, music, or code, that appears human-generated. GenAI models are often built using DL techniques.  
+
+**Example:** The self-driving car's entertainment system might use GenAI to provide real-time conversational support. For instance, if a passenger asks, "What’s the nearest gas station?" the AI generates a natural-sounding response.
+
+---
+
+### 5. **Large Language Models (LLM)**  
+**Definition:** LLMs are a specific type of GenAI designed for processing and generating human-like text. These models, like GPT (Generative Pre-trained Transformer), are trained on vast amounts of text data and can understand, summarize, and create text.
+
+**Example:** Inside the self-driving car’s system, an LLM might power a virtual assistant. When a passenger says, "Play some relaxing music," the LLM interprets the request and responds conversationally while controlling the music system.
+
+--- 
+
 **Machine Learning**
 <img width="911" alt="{F0315456-A3A8-4A6C-AE5B-2EAD59CB3086}" src="https://github.com/user-attachments/assets/afe2a09f-b041-4f11-bfbb-7286d41fff84">
 
