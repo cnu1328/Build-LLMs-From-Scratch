@@ -46,6 +46,11 @@
 
 <img width="901" alt="{228700A0-5CA2-4C53-A1C8-182A587854C9}" src="https://github.com/user-attachments/assets/e220ae89-c080-455d-8119-3bd8cac9395e">
 
+Self-attention is a mechanism that helps a model focus on different parts of an input sequence to understand their relationships. It allows each word (or token) in a sequence to consider every other word to create a better representation of the sequence's meaning. 
+
+### Example:
+In the sentence **"The cat chased the mouse"**, self-attention helps the model figure out that **"chased"** relates to **"cat"** as the subject and **"mouse"** as the object, even though they are separated by other words.
+
 <img width="630" alt="{454539E2-4E11-4D98-A07E-C482D154FFBB}" src="https://github.com/user-attachments/assets/4dd53126-8f1e-4afc-9556-077d2ed49f9e">
 
 <img width="659" alt="{2F8DBEEA-D7DD-4A84-BCA1-7C3FAA743BB7}" src="https://github.com/user-attachments/assets/72e7e4a3-e0d1-486b-9e82-e7c4b2b83600">
