@@ -1,5 +1,33 @@
 <img width="811" alt="{65F93DC7-162B-49ED-AB70-93E093798223}" src="https://github.com/user-attachments/assets/8e10d7e2-630d-4cc3-bba7-9bdcaa835a10">
 
+
+**Embedding Vectors**:
+- Embedding vectors are a way to represent words as numbers so that a computer can understand them.
+- These vectors capture the **meaning of words** and their relationships. For example, words like **"cat"** and **"kitten"** are represented by vectors close to each other because they are related.
+
+**Context Vectors**:
+- A **context vector** is like an upgraded version of an embedding vector.
+- It not only captures the **meaning of a word** (like an embedding vector) but also includes information about how the word is related(importance) to other words in the sentence. This added **context** helps in better understanding the word's role in the sentence.
+
+---
+
+### Example:
+
+Take the sentence:  
+**"The cat is sleeping on the mat."**
+
+1. **Embedding Vector**:  
+   - The word **"cat"** is represented as a vector that captures its meaning, such as "a small animal" or "a pet."  
+   - It’s similar to the vector for **"kitten"**, as they are related in meaning.
+
+2. **Context Vector**:  
+   - The context vector for **"cat"** not only captures its meaning but also considers the sentence it appears in.  
+   - It understands that **"cat"** is the subject of the sentence and is connected to the action **"sleeping"** and the location **"on the mat."**
+
+This extra context is crucial for tasks like predicting the next word.  
+For example:  
+If we have **"The cat is sleeping on the..."**, a context vector helps the model predict **"mat"** instead of unrelated words like **"table"** or **"cloud."**
+
 <img width="356" alt="{629206F9-17F6-4899-B936-A43D006BA8CA}" src="https://github.com/user-attachments/assets/25aeddd9-0150-478d-8a54-670d357bb56c">
 
 <img width="524" alt="{306894EA-9335-4B15-AFD6-1270BCAB7628}" src="https://github.com/user-attachments/assets/b515f796-d8be-4aaf-9f22-53fa558662ba">
